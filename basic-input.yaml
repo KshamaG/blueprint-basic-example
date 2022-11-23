@@ -2,10 +2,8 @@
 # null value requires inputs to be specified via the CLI or UI
 
 # Resource parameters
-resource_group_name: 
-# resource_group_name: basic
-provision_rg: 
-# provision_rg: true/false 
+resource_group_name:
+provision_rg:
 # COS parameters
 cos_instance_name: Blueprint-basic
 cos_storage_plan: standard
