@@ -12,6 +12,7 @@ inputs:
   - name: provision_rg
     default: false
     description: Provision a new resource group? true/false
+    optional: true
     type: boolean
     required: true
   - name: cos_instance_name
