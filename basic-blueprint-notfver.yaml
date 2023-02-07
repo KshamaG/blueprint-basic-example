@@ -38,7 +38,7 @@ modules:
     source:
       source_type: github
       git:
-        git_repo_url: "https://github.com/Cloud-Schematics/blueprint-example-modules/tree/main/IBM-ResourceGroup"
+        git_repo_url: "https://github.com/Cloud-Schematics/blueprint-example-modules/tree/main/IBM-ResourceGroups"
         git_branch: main
     inputs:
       - name: provision
